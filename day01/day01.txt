@@ -1,0 +1,35 @@
+전은석
+
+https://www.github.com/eunsII/DB/
+
+
+1. https://www.oracle.com/
+	접속후 오라클계정을 만든다.
+
+
+windows key + r	==> cmd 입력
+
+java -version
+
+javac -version ==> 자바컴파일러 버젼확인
+
+
+cmd 창에서 아래 명령을 입력해서 
+hr걔정을 활성화 한다.
+
+ALTER USER hr IDENTIFIED BY hr ACCOUNT UNLOCK;
+
+conn hr/hr
+
+SELECT tname FROM tab;
+
+conn system/1234
+
+@C:\db\script\scott.sql
+
+
+
+
+
+
+
